@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Film Archive\MovieArchive\MovieArchive\bin\Debug\MovieArchive.exe.config
+C:\Users\user\Desktop\Film Archive\MovieArchive\MovieArchive\bin\Debug\MovieArchive.exe
+C:\Users\user\Desktop\Film Archive\MovieArchive\MovieArchive\bin\Debug\MovieArchive.pdb
+C:\Users\user\Desktop\Film Archive\MovieArchive\MovieArchive\obj\Debug\MovieArchive.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Film Archive\MovieArchive\MovieArchive\obj\Debug\MovieArchive.Form1.resources
+C:\Users\user\Desktop\Film Archive\MovieArchive\MovieArchive\obj\Debug\MovieArchive.Properties.Resources.resources
+C:\Users\user\Desktop\Film Archive\MovieArchive\MovieArchive\obj\Debug\MovieArchive.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Film Archive\MovieArchive\MovieArchive\obj\Debug\MovieArchive.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Film Archive\MovieArchive\MovieArchive\obj\Debug\MovieArchive.exe
+C:\Users\user\Desktop\Film Archive\MovieArchive\MovieArchive\obj\Debug\MovieArchive.pdb
